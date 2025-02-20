@@ -7387,8 +7387,7 @@
   "version" "18.2.0"
 
 "react-onclickoutside@github:vivekcontentstack/react-onclickoutside":
-  "integrity" "sha512-JjYwK+Bh6mLsEJ4cBrGVLEWI+WOGdQNulM0/WdXCJ+0WGBRmV7QcQh0HEr3SNQIYovFuZSvtjYfjTNUZjRiXDQ=="
-  "resolved" "git+ssh://git@github.com/vivekcontentstack/react-onclickoutside.git"
+  "resolved" "git+ssh://git@github.com/vivekcontentstack/react-onclickoutside.git#3a6993b6e99bc21b69ca94a88a4dd56c99cedabc"
   "version" "6.13.1"
 
 "react-popper@^2.3.0":
