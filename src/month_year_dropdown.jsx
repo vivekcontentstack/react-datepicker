@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import MonthYearDropdownOptions from "./month_year_dropdown_options";
-import onClickOutside from "react-onclickoutside";
+import onClickOutside from "./onclickoutside";
 import {
   addMonths,
   formatDate,

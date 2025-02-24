@@ -48,7 +48,7 @@ import {
   getHolidaysMap,
 } from "./date_utils";
 import TabLoop from "./tab_loop";
-import onClickOutside from "react-onclickoutside";
+import onClickOutside from "./onclickoutside";
 
 export { default as CalendarContainer } from "./calendar_container";
 

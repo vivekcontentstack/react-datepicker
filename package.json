@@ -108,7 +108,6 @@
     "classnames": "^2.2.6",
     "date-fns": "^2.30.0",
     "prop-types": "^15.7.2",
-    "react-onclickoutside": "github:vivekcontentstack/react-onclickoutside",
     "react-popper": "^2.3.0"
   },
   "scripts": {

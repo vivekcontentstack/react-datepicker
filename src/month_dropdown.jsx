@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import MonthDropdownOptions from "./month_dropdown_options";
-import onClickOutside from "react-onclickoutside";
+import onClickOutside from "./onclickoutside";
 import * as utils from "./date_utils";
 
 const WrappedMonthDropdownOptions = onClickOutside(MonthDropdownOptions);

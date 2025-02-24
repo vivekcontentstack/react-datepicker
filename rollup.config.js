@@ -21,7 +21,6 @@ const dateFnsDirs = fs
 const globals = {
   react: "React",
   "prop-types": "PropTypes",
-  "react-onclickoutside": "onClickOutside",
   "react-popper": "ReactPopper",
   classnames: "classNames",
 };

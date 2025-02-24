@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import YearDropdownOptions from "./year_dropdown_options";
-import onClickOutside from "react-onclickoutside";
+import onClickOutside from "./onclickoutside";
 import { getYear } from "./date_utils";
 
 const WrappedYearDropdownOptions = onClickOutside(YearDropdownOptions);
